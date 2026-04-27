@@ -1,0 +1,12 @@
+
+build:
+  version: 1.0
+
+accounts:
+  message: "Welcome to EazyBank accounts related Production APIs "
+  contactDetails:
+    name: "Rajiv khatri - Product Manager"
+    email: "khatri@laxmicheatfundbank.com"
+  onCallSupport:
+    - (666) 265-1234
+    - (666) 734-1345

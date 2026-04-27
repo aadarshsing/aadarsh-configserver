@@ -1,0 +1,13 @@
+
+
+build:
+  version: 2.0
+
+accounts:
+  message: "Welcome to EazyBank accounts related QA APIs "
+  contactDetails:
+    name: "Smitha Ray - QA Lead"
+    email: "smitha@laxmicheatfundbank.com"
+  onCallSupport:
+    - (666) 265-1234
+    - (666) 734-1345
