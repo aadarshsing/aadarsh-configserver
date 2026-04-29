@@ -3,7 +3,7 @@ build:
   version: 3.0
 
 loans:
-  message: "Welcome to LaxmiCheatFundBank loans related Prod APIs "
+  message: "Welcome to LaxmiCheatFundBank loans related Production APIs "
   contactDetails:
     name: "Niraj mehta - Product Manager"
     email: "mehta@laxmicheatfundbank.com"
