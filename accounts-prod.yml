@@ -3,7 +3,7 @@ build:
   version: 1.0
 
 accounts:
-  message: "Welcome to EazyBank accounts related prod APIs "
+  message: "Welcome to EazyBank accounts related production APIs "
   contactDetails:
     name: "Rajiv khatri - Product Manager"
     email: "{cipher}3610bdc9402a021755982c9ff43178febd622605fdb37e443d927f50ba95c9ff9c5a9e369d33540ba13ce4a51832c380"
